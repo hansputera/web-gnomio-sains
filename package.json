@@ -1,0 +1,19 @@
+{
+  "name": "gnomio-sains",
+  "version": "1.0.0",
+  "description": "Login ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./dist"
+  },
+  "author": "Hanif",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1",
+    "@types/superagent": "^4.1.10"
+  }
+}
